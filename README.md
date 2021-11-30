@@ -6,6 +6,7 @@
     <img src="https://webfontworld.github.io/andong/AndongKaturi.jpg" alt="AndongKaturi" style="width:300px">
 </a>
 
+<pre>
 @font-face {
     font-family: 'AndongKaturi';
     font-weight: normal;
@@ -17,13 +18,14 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
 
 # 안동 월영교체(AndongKaturi)
 
 <a href="https://wess.tistory.com/247" target="_blank">
     <img src="https://webfontworld.github.io/andong/AndongWolyeonggyo.jpg" alt="AndongWolyeonggyo" style="width:300px">
 </a>
-
+<pre>
 @font-face {
     font-family: 'AndongWolyeonggyo';
     font-weight: normal;
@@ -35,3 +37,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongWolyeonggyo.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
