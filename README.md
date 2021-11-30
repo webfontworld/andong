@@ -20,7 +20,7 @@
 }
 </pre>
 
-# 안동 월영교체(AndongKaturi)
+# 안동 월영교체(AndongWolyeonggyo)
 
 <a href="https://wess.tistory.com/247" target="_blank">
     <img src="https://webfontworld.github.io/andong/AndongWolyeonggyo.jpg" alt="AndongWolyeonggyo" style="width:300px">
