@@ -1,6 +1,6 @@
 # andong
 
-# 안동 카투리체(AndongKaturi)
+# 안동 까투리체(AndongKaturi)
 
 <a href="https://wess.tistory.com/246" target="_blank">
     <img src="https://webfontworld.github.io/andong/AndongKaturi.jpg" alt="AndongKaturi" style="width:300px">
