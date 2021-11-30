@@ -1,0 +1,13 @@
+/* https://wess.tistory.com */
+
+@font-face {
+    font-family: 'AndongKaturi';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/andong/AndongKaturi.ttf') format("truetype");
+    font-display: swap;
+}
